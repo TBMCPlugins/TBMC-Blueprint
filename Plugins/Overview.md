@@ -1,6 +1,5 @@
-rough draft, some of these plugins might be combined
+(rough draft, some of these plugins might be combined -- for example, per-world and hardcore)
 
---
 
 WORLD
 

@@ -3,12 +3,14 @@ plans!
 
 The structure so far:
 
-    Builds   /  Spawn.txt
+    Builds   /  Spawn.
             
-                Dungeons  /  Diamond Dungeon.txt
+                Dungeons  /  Diamond Dungeon.
 
-    Plugins  /  Overview.txt
-            
+    Plugins  /  Overview.
+                
+                Research.
+                
                 Regional  /  Regen
             
                 World     /  Per-World

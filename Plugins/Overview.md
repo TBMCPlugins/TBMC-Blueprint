@@ -1,15 +1,15 @@
 (rough draft, some of these plugins might be combined -- for example, per-world and hardcore)
 
 
-####WORLD
+WORLD
   PER-WORLD
   HARDCORE
 
-####REGION
+REGION
   UNIVERSAL REGIONS
     UNIVERSAL REGION EVENTS
     REGEN PLUGIN
     SOFT CLAIMS
   
-####BEHAVIOR
+BEHAVIOR
 

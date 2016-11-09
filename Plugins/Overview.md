@@ -1,13 +1,13 @@
 (rough draft, some of these plugins might be combined -- for example, per-world and hardcore)
 
 
-WORLD
+####WORLD
 
     PER-WORLD
  
     HARDCORE
 
-REGION
+####REGION
  
     UNIVERSAL REGIONS
   
@@ -17,5 +17,5 @@ REGION
 
       SOFT CLAIMS
   
-BEHAVIOR
+####BEHAVIOR
 

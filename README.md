@@ -14,4 +14,3 @@ The structure so far:
 |||[Regional](https://github.com/TBMCPlugins/TBMC-Blueprint/tree/master/Plugins/Regional) |/| [**Regen**](https://github.com/TBMCPlugins/TBMC-Blueprint/blob/master/Plugins/Regional/Regen%20(research%20required).md) 
 |||||[**Universal Regions**](https://github.com/TBMCPlugins/TBMC-Blueprint/blob/master/Plugins/Regional/Universal%20Regions.md)
 |||[World](https://github.com/TBMCPlugins/TBMC-Blueprint/tree/master/Plugins/World) |/| [**Per-World**](https://github.com/TBMCPlugins/TBMC-Blueprint/blob/master/Plugins/World/Per-World.md)
-||||

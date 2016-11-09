@@ -1,6 +1,4 @@
-rough draft
-
-some of these plugins might be combined
+rough draft, some of these plugins might be combined
 
 --
 

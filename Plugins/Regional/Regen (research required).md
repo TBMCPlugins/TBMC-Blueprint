@@ -7,7 +7,7 @@
       Layers are like additional region folders, storing alternate
       versions of the world.  
 
-
+.
                 2) LAYERS:
 
     SEED: 
@@ -43,7 +43,7 @@
               used for longer events taking place in the wilderness
               maybe used for pitched battles?
 
-
+.
                 3) LOGIC
 
     REGION MANAGER:
@@ -57,7 +57,7 @@
     COMMAND SCHEDULER:
     put a command on a clock
 
-
+.
                 4) HOW WE WOULD USE THIS PLUGIN:
 
     WAR:

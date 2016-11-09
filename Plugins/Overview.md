@@ -1,19 +1,16 @@
 rough draft
+
 some of these plugins might be combined
 
 
-    ===================
-    ====== WORLD ======
+WORLD
 
     PER-WORLD
 
     HARDCORE
 
 
---
-
-    ====================
-    ====== REGION ======
+REGION
 
     UNIVERSAL REGIONS
 
@@ -23,8 +20,5 @@ some of these plugins might be combined
 
       SOFT CLAIMS
   
---
-
-    ======================
-    ====== BEHAVIOR ======
+BEHAVIOR
 

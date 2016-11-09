@@ -2,8 +2,7 @@ the basic functionality is done
 it can store and retrieve inventories, playerdata, and player locations
 
 
-####THINGS I WILL ADD:
---
+####THINGS I WILL ADD:  
 "object-based" configuration:
   
 LOCATIONS:

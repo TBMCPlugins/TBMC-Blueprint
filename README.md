@@ -7,10 +7,10 @@ The structure so far:
             
                 Dungeons  /  Diamond Dungeon.
 
-    Plugins  /  Overview.
-                
+    Plugins  /  Overview.  
                 Research.
                 
-                Regional  /  Regen
+                Regional  /  Regen.  
+                             Universal Regions.
             
-                World     /  Per-World
+                World     /  Per-World.

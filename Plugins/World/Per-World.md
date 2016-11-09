@@ -50,21 +50,19 @@ it can store and retrieve inventories, playerdata, and player locations
         per world per storyline per player
         per excursion per world per storyline per player
 
-      And the incomplete list of automatically tracked data points:
+      And the incomplete list of automatically tracked data points, tracked in the manner described above:
 
         LAST KNOWN LOCATION
-
         (PLAYER)
-        LAST DEATH
-        LAST KILL
-        # DEATHS
-        # KILLS
-
+          LAST DEATH
+          LAST KILL
+          # DEATHS
+          # KILLS
         (MOB) ...?
-        LAST DEATH
-        LAST KILL
-        # DEATHS
-        # KILLS
+          LAST DEATH
+          LAST KILL
+          # DEATHS
+          # KILLS
 
 
       maybe just implement a sort of "per-world scoreboards" type thing  

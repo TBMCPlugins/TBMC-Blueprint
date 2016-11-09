@@ -31,8 +31,7 @@
         this is the layer containing the stable, "official" peacetime contents of towns.
         permanent changes, made by residents, are saved here.
 
-        OTHER:
-
+        OTHER:  
               SOFT CLAIMS LAYERS: 
               every soft claim generates its own temporary layer
 

@@ -6,16 +6,14 @@ These are all stored in the following way:
     per world per storyline per player,
     per excursion per world per storyline per player
 
-####tracked data:  
-summary:
+tracked data:
 
     location
     inventory
     playerdata
-    
     time tracking
-    
     kill/death ratios
+    ?
 
 breakdown:
 

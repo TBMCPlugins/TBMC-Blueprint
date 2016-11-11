@@ -6,13 +6,25 @@ These are all stored in the following way:
     per world per storyline per player,
     per excursion per world per storyline per player
 
-tracked data:
+####tracked data:  
+summary:
+
+    location
+    inventory
+    playerdata
+    
+    time tracking
+    
+    kill/death ratios
+
+breakdown:
 
     LOCATION
+        - xyz yaw pitch
     INVENTORY
         - inventory
         - enderchest
-    PLAYER DATA
+    PLAYERDATA
         - exp
         - health
         - food
@@ -28,13 +40,15 @@ tracked data:
             - isAmbient
             - hasParticles
             - Color (if it has one)
-
-    TOTAL TIME SPENT (ticks)
-    TIME LAST ENTERED
-    TIME LAST LEFT
-
+    
+    TIME TRACKING
+        - total time spend
+        - time last entered
+        - time last left
+    
     KILL/DEATH:
-        (ANY PLAYER) ----------------
+    
+        ANY PLAYER:
             - last kill
                 - time
                 - time since previous
@@ -45,7 +59,9 @@ tracked data:
                 - killer uuid, name     
             - # kills
             - # deaths
-        (EACH PLAYER) ----------------
+            
+        EACH PLAYER:
+            - uuid, name
             - last kill
                 - time
                 - time since previous
@@ -59,4 +75,4 @@ tracked data:
             - # kills
             - # deaths
 
-    ?
+    to be continued?

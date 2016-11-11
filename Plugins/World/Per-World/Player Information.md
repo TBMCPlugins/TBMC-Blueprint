@@ -13,7 +13,6 @@ tracked data:
     playerdata
     time tracking
     kill/death ratios
-    ?
 
 breakdown:
 

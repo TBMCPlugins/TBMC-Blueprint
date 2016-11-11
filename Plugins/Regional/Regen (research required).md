@@ -2,7 +2,7 @@
 
                 1) OVERVIEW:
 
-    Intercept chunk load and save events, at the NMS level.
+    Intercept chunk load and save events (possibly at the NMS level).
     Decide which LAYER's version of the chunk to load from, and save to.
 
       Layers are like additional region folders, storing alternate

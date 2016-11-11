@@ -1,13 +1,15 @@
 this page is an unfinished rough draft
 
-####WORLD  
+WORLD  
+
     PER-WORLD + HARDCORE
 
-####REGION  
+REGION  
+
     UNIVERSAL REGIONS  
      UNIVERSAL REGION EVENTS  
      REGEN PLUGIN  
      SOFT CLAIMS
   
-####BEHAVIOR
+BEHAVIOR
 

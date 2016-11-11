@@ -8,14 +8,6 @@ These are all stored in the following way:
 
 tracked data:
 
-    location
-    inventory
-    playerdata
-    time tracking
-    kill/death ratios
-
-breakdown:
-
     LOCATION
         - xyz yaw pitch
     INVENTORY

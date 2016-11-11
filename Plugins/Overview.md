@@ -1,10 +1,7 @@
-(rough draft, some of these plugins might be combined -- for example, per-world and hardcore)
-
+this page is an unfinished rough draft
 
 ####WORLD  
-    PER-WORLD  
-    HARDCORE
-    CUSTOM MOBS
+    PER-WORLD + HARDCORE
 
 ####REGION  
     UNIVERSAL REGIONS  
